@@ -1,1 +1,2 @@
 # uszol
+zegz < 3
